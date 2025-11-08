@@ -1,8 +1,4 @@
-# construction_management
-Power BI dashboard and dataset for monitoring and  analyzing a construction project.
-
-
-# 🏗️ Construction Project Management Dashboard (Power BI)
+# 🏗️ Construction Project Management Dashboard
 
 ## 📊 Overview
 This **Power BI dashboard** provides a comprehensive overview of construction project performance, helping project managers and stakeholders track **costs, budgets, progress, and task completion** across multiple locations and project types.  
@@ -54,10 +50,8 @@ This dashboard supports **data-driven construction management** by:
 - Tracking **site-level and manager-level performance**  
 - Enabling **profit and cost control** through accurate reporting  
 
-In short, it transforms raw project data into **actionable insights** for smarter decision-making.
-
 ---
-
+<img width="894" height="469" alt="Image" src="https://github.com/user-attachments/assets/bbbfd4f0-6f75-428b-ab26-b02e5ba6c9af" />
 
 ## ⚙️ Tools & Techniques
 - **Power BI Desktop** – Data modeling, report building  
@@ -81,7 +75,7 @@ In short, it transforms raw project data into **actionable insights** for smarte
 
 
 ## 📈 Results
-By using this dashboard, a one can:
+By using this dashboard, one can:
 - Improve **on-time delivery rates**  
 - Reduce **budget overruns**  
 - Gain **project-level profitability insights**  
